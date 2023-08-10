@@ -12,7 +12,7 @@ export class AxiosService {
   }
   private basedStudioUrl = 'https://studio-api-eu.ai.vonage.com/live-agent';
   private basedSlackUrl =
-    'https://hooks.slack.com/services/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';
+    'https://hooks.slack.com/services/XXXX';
 
   getHello(): string {
     return 'Hello World!';
